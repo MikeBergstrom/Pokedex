@@ -1,0 +1,16 @@
+#left{
+    width: 75%;
+    display: inline-block;
+}
+#right{
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+}
+#show{
+    border: 20px solid red;
+    width: 90%;
+    height: 500px;  
+    vertical-align: top;
+    display: inline-block;
+}
